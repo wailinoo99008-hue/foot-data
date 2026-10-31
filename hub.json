@@ -558,22 +558,6 @@
                 },
                 "tips": [],
                 "links": [
-                    {
-            "name": "TNT Sports 1",
-            "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-            "referrer": "",
-            "user_agent": "",
-            "drm_type": "clearkey",
-        "license_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-                    {
-            "name": "Fubo Sport",
-            "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-            "referrer": "",
-            "user_agent": "",
-            "drm_type": "clearkey",
-        "license_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
-        },
         {
             "name": "USA Network",
             "url": "https://tvsen3.aynaott.com/dbbcY6NG/tracks-v1a1/mono.ts.m3u8",
