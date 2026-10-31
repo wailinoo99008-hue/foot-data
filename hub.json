@@ -14,7 +14,7 @@
                 "score": null,
                 "home_team": {
                     "name": "Aston Villa",
-                    "logo_url": "https:\/\/static.flashscore.com\/res\/image\/data\/QsnteKXg-jwz95gs0.png"
+                    "logo_url": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png?q=65&w=100"
                 },
                 "away_team": {
                     "name": "Fulham",
@@ -86,7 +86,7 @@
                 "score": null,
                 "home_team": {
                     "name": "Tottenham Hotspur",
-                    "logo_url": "https:\/\/static.flashscore.com\/res\/image\/data\/ARC62UAr-Ig5FKJZ5.png"
+                    "logo_url": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png?q=65&w=100"
                 },
                 "away_team": {
                     "name": "Crystal Palace",
@@ -178,7 +178,7 @@
                 },
                 "away_team": {
                     "name": "Leeds",
-                    "logo_url": "https:\/\/static.flashscore.com\/res\/image\/data\/rsvCPOh5-MTp25XgE.png"
+                    "logo_url": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png?q=65&w=100"
                 },
                 "tips": [],
                 "links": [
@@ -545,7 +545,7 @@
                 "start_at": 1793449800,
                 "published_at": "2026-10-31T12:30:00+00:00",
                 "created_at": "2026-10-31T03:59:53+00:00",
-                "is_live": false,
+                "is_live": true,
                 "is_hot": false,
                 "score": null,
                 "home_team": {
